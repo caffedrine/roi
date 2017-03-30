@@ -65,7 +65,15 @@ cv_bridge/cv_bridge.h
 -
 roi/recvMsg.h
 /home/curiosul/ROS_Workspace/sandbox/roi/src/roi/recvMsg.h
+sensor_msgs/Imu.h
+/home/curiosul/ROS_Workspace/sandbox/roi/src/sensor_msgs/Imu.h
 iostream
+-
+sstream
+-
+cstdlib
+-
+ctime
 -
 
 /opt/ros/indigo/include/XmlRpcDecl.h

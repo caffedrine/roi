@@ -119,7 +119,13 @@ roi/recvMsg.h
 /home/curiosul/ROS_Workspace/sandbox/roi/src/roi/recvMsg.h
 roi/sendMsg.h
 /home/curiosul/ROS_Workspace/sandbox/roi/src/roi/sendMsg.h
+sensor_msgs/RegionOfInterest.h
+/home/curiosul/ROS_Workspace/sandbox/roi/src/sensor_msgs/RegionOfInterest.h
+sensor_msgs/Image.h
+/home/curiosul/ROS_Workspace/sandbox/roi/src/sensor_msgs/Image.h
 iostream
+-
+vector
 -
 
 /opt/ros/indigo/include/XmlRpcDecl.h
