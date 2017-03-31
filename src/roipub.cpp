@@ -79,7 +79,7 @@ int main(int argc, char** argv)
     ros::init(argc, argv, "image_publisher");
     ros::NodeHandle n;
 
-    ros::Publisher publisher = n.advertise<roi::recvMsg>("camera/image", 1) ;
+    ros::Publisher publisher = n.advertise<roi::recvMsg>("camera_and_imu", 1) ;
 
     //Video editing and all the stuff
     // Convert the passed as command line parameter index for the video device to an integer

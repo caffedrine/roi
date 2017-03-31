@@ -98,7 +98,7 @@ int main(int argc, char **argv)
 
     //Creating subscription and publishing handlers
     publisher = publishNode.advertise<roi::sendMsg>("camera/roi", 1) ;                         //publisher
-    ros::Subscriber subscriber = subscribeNode.subscribe("camera/image", 1, image_callback);   //subscriber
+    ros::Subscriber subscriber = subscribeNode.subscribe("camera_and_imu", 1, image_callback);   //subscriber
 
     //Make sure we recieve until booth nodes are shutdown
     ros::spin();
