@@ -37,3 +37,4 @@ msg_gen/
 lib/
 *.user
 src/roi
+.*~
