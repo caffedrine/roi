@@ -1,4 +1,0 @@
-#IMU Data, we may have to pass those infos too!
-
-bool isValid
-sensor_msgs/Imu imu
