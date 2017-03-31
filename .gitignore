@@ -36,5 +36,7 @@ build/
 msg_gen/
 lib/
 *.user
+*.*.user
 src/roi
 .*~
+*.*~
