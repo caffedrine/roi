@@ -1,10 +1,10 @@
 <package>
   <description brief="roi">
 
-     roi
+     Regions of Interest processor.
 
   </description>
-  <author>Alex C</author>
+  <author>Alex C.</author>
   <license>BSD</license>
   <review status="Reviewed!" notes=""/>
   <url>http://ros.org/wiki/roi</url>
